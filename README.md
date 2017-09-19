@@ -1,2 +1,2 @@
 # gitskills
-Learning git is so interseting.
+Git is a free software...
